@@ -1,4 +1,8 @@
 _repo: Uncle-Wiggily-s-Auto-Sled-or-How-Mr-Hedgehog-Helped-Him-Get-Up-the-Slippery-Hill-and-How-Uncl__50405
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50405-h/images/cover.jpg
 creator:
   author:
     agent_name: Garis, Howard Roger
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/808
     wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50405#Uncle-Wiggily-s-Auto-Sled-or-How-Mr-Hedgehog-Helped-Him-Get-Up-the-Slippery-Hill-and-How-Uncl_
 gutenberg_issued: '2015-11-07'
 gutenberg_type: Text
 identifiers:
